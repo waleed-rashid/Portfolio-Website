@@ -301,7 +301,7 @@ h1.hero-name {
   transform: translateY(-10px) scale(1.03);
   border-color: rgba(47,87,233,0.5);
   box-shadow: 0 24px 56px rgba(0,0,0,0.55), 0 0 40px rgba(47,87,233,0.12);
-  filter: brightness(1.25);
+  filter: brightness(1.5);
   z-index: 2;
 }
 
